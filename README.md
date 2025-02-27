@@ -42,10 +42,11 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 - 🚁 **Drone Detection System**: ML and signal processing implementation
 - 🔍 **Algorithmic Trading Bot**: Algotrading 
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - 📈 Build alpha-generation strategies for **AlphaVerse**
 - 📚 Deepen expertise in quantitative finance and AI
 - 🤝 Continue contributing to SPEC initiatives
+- 📐 Become a Math Maniac along with a CodeForces Maniac 
 
 ## 💡 Beyond Tech
 - 🎭 Cultural Fest Leadership in **Hillfair**
