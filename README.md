@@ -13,9 +13,9 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### What I Do
-- 📈 **Quant Enthusiast**: On a journey to become a quant, exploring finance and mathematics
+- 📈 **Quant Enthusiast**: On a journey to become a quant, exploring finance and mathematics along with some ML and DL
 - 💡 **Innovator**: Building projects like **Thirfteazy**, a Web3 NFT-powered thrift marketplace
-- 🔍 **Tech Explorer**: From radar-based drone detection to forensic investigations
+- 🔍 **Tech Explorer**: From radar-based drone detection to forensic investigations and maybe some algo trading bots.
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -30,7 +30,7 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 ### Tools & Technologies
 - 🤖 Machine Learning: pandas, NumPy, matplotlib, scikit-learn
 - 🔧 Hardware: Arduino, Nano V3.0, RFID modules, Servo motors
-- 💻 OS: RTOS, Linux-based systems
+- 💻 OS: RTOS, Linux-based systems (I use Arch btw)
 
 ## 📚 Current Projects
 <div align="center">
@@ -58,7 +58,8 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 
 ## 🌱 Fun Facts
 - 🔌 Always tinkering with electronics
-- 🧘‍♂️ Overcame public speaking fear through yoga and sadhana
+- 🧘‍♂️ Overcame public speaking fear through yoga and sadhana (am deep into mysticism and mind bending stuff)
+- 🕺 I dance or better to say I dance well.
 
 ## 📫 Connect With Me
 <p align="center">
