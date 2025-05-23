@@ -29,7 +29,7 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 
 ### Tools & Technologies
 - 🤖 Machine Learning: pandas, NumPy, matplotlib, scikit-learn
-- 🔧 Hardware: Arduino, Nano V3.0, RFID modules, Servo motors
+- 🔧 Hardware: Mesa, ArduPilot
 - 💻 OS: RTOS, Linux-based systems (I use Arch btw)
 
 ## 📚 Current Projects
@@ -38,7 +38,7 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
 </div>
 
 - 🎯 **Electrothon 7.0**: Driving sponsorship outreach
-- 📊 **Data Analytics Course**: Teaching first-year students about data analytics
+- 📊 **Data Analytics Course**: Taught 30 first-year students about data analytics.
 - 🚁 **Drone Detection System**: ML and signal processing implementation
 - 🔍 **Algorithmic Trading Bot**: Algotrading 
 
