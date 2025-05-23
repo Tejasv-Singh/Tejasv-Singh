@@ -37,7 +37,7 @@ I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate abo
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-- 🎯 **Electrothon 7.0**: Driving sponsorship outreach
+- 🎯 **Electrothon 7.0**: Drove sponsorship outreach and got 2500+ registerations.
 - 📊 **Data Analytics Course**: Taught 30 first-year students about data analytics.
 - 🚁 **Drone Detection System**: ML and signal processing implementation
 - 🔍 **Algorithmic Trading Bot**: Algotrading 
