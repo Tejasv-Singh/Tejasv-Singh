@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a second-year Electrical Engineering student at NIT Hamirpur, passionate about blending technology with creativity and innovation.
+I'm a third-year Electrical Engineering student at NIT Hamirpur, passionate about blending technology with creativity and innovation.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
