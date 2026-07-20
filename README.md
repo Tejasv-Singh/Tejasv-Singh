@@ -42,11 +42,11 @@ I'm a third-year Electrical Engineering student at NIT Hamirpur, passionate abou
 - 🤝 **DealFlow**: An autonomous Agent-to-Agent system for sponsorship outreach built on Verisense.
 - 💳 **Eco-Credit Nexus**: Multi-agent loan approval system for the Digital Innovation Challenge '25.
 - 📊 **Williams Strategy Deck**: The "Sprint VIX" app for software teams (Atlassian Codegeist '25).
-- ⚡ **Electrothon 8.0**: Lead Organizer for one of the region's largest hackathons.
+- ⚡ **Electrothon 8.0**: Lead Organizer for one of the India's largest hackathons.
 
 ## 🎯 Goals for 2026
 - 📈 Deepen expertise in Stochastic Calculus, Market Microstructure & Algorithmic Trading
-- 💼 Scale **Euloop.Ai** operations
+- 💼 Make great Opensource contributions. 
 - 🏆 Execute a massive **Electrothon 8.0** in March
 - 📐 Become a Math Maniac along with a CodeForces Maniac
 
